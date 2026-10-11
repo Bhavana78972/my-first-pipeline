@@ -1,5 +1,5 @@
 
-name: CI Pipeline
+name: My First CI Pipeline
 
 on:
   pull_request:
